@@ -11,6 +11,8 @@ We aim to help the maritime industry reduce cost through optimizing fuel usage.
 #### What it does
 Our statistical model finds ways to save fuel while in the middle of a voyage. Through combining historical ship data with up-to-date info on ship characteristics and norms, we look for obscure optimizations which can add up to clear savings.
 
+![alt text](https://github.com/coderhub/ratelytics/blob/master/img/Ratelytics.png "Nice Dashboard")
+
 #### How we built it
 We analyzed data from the Tecpier Noon Report and Lloyd's List vessel characteristics. We would like to say "thank you" to those two companies for allowing us to work with their data (and thanks to all other companies who participated as well).
 
