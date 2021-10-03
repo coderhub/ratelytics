@@ -41,5 +41,5 @@ Ratelytics is comprised of a diverse team with strongly complementary background
 * Jing Li (Data Scientist)- jl5358 (at) columbia.edu
 * Alberto Giannetti (Data Scientist)- albertogiannetti (at) gmail.com
 * Carlos Merced (UX - Front End Dev) - mail.merced (at) gmail.com
-* Maggie Chen (Full Stack Dev)- mchen1415 (at) gmail.com
+* Maggie Chen (Full Stack Dev)- mchen.code (at) gmail.com
 * Raquel Hollatz (Industry Professional)- rakerholl (at) hotmail.com
